@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Business Administration Graduate\ Digital Marketing Manager
+role: Business Administration Graduate
 
 # Organizations/Affiliations
 organizations:
